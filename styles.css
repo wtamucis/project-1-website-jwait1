@@ -1,4 +1,14 @@
-.golden-img {
-    max-width: 50%;
-    height: auto;
+html {
+    background-color: beige;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+main{
+   width: 800px;
+   margin: auto;
+   padding; 10px 
 }
